@@ -1,0 +1,58 @@
+h1{
+  text-align: center;
+}
+
+.title1{
+    text-align: center;
+    font-size: 28px;
+    font-family:BankGothic Md BT;
+    color: white;
+}
+
+h5{
+  text-align: center;
+}
+
+.navbar:hover {
+    opacity: 0.9;
+  }
+  
+.main-heading {
+    font-family: "Raleway";
+    font-weight: bolder;
+    font-size: 6rem;
+    margin-top: 2rem;
+    text-align: center;
+  }
+
+.button {
+    text-align: center;
+    padding-bottom: 5%;
+
+}
+  
+.my-btn {
+    margin-left: 0%;
+    margin-right:2%;
+    margin-top: 0%;
+    margin-bottom: -5%;
+    font-weight: bolder;
+
+}  
+table th, td {
+    
+    width: 10%;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 1.3rem;
+  
+}
+
+#right {
+  width: 45px;
+    height: 50px;
+    object-position: right;
+    margin-left: 960%;
+    margin-bottom: 25%;
+    }
+
